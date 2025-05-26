@@ -22,6 +22,7 @@ public class Practica {
             System.out.println(numero);
             numero = numero - 1;
             imprime(numero);
+         //.   
         }
     }
 /* TAREA FORMATIVA: REVISAR PQ ESTE CODIGO SE CAE.
