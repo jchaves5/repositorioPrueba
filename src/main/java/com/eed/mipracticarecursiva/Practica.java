@@ -24,7 +24,8 @@ public class Practica {
             imprime(numero);
         }
     }
-/* TAREA FORMATIVA: REVISAR PQ ESTE CODIGO SE CAE.*/
+/* TAREA FORMATIVA: REVISAR PQ ESTE CODIGO SE CAE.
+    Prueba*/
     public int sumaNumeros(int posicion, int n){
         if (posicion == n)
              return posicion;
